@@ -80,7 +80,7 @@ const Terms = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">8. Contact Information</h2>
               <p className="text-muted-foreground">
-                For questions about these terms, please contact us at: support@cloudbyte.cloud
+                For questions about these terms, please contact us at: cloudbyte.byte@gmail.com
               </p>
             </section>
 

@@ -107,7 +107,7 @@ const Shipping = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">9. Contact Information</h2>
               <p className="text-muted-foreground">
-                For questions about service delivery, please contact us at: support@cloudbyte.cloud
+                For questions about service delivery, please contact us at: cloudbyte.byte@gmail.com
               </p>
             </section>
 

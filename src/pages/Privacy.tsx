@@ -59,15 +59,9 @@ const Privacy = () => {
               </p>
             </section>
 
-            <section>
-              <h2 className="text-2xl font-bold mb-4">5. Cookies</h2>
-              <p className="text-muted-foreground">
-                We use cookies and similar tracking technologies to track activity on our service and 
-                hold certain information to improve your experience.
-              </p>
-            </section>
+             
 
-            <section>
+          <section>
               <h2 className="text-2xl font-bold mb-4">6. Your Rights</h2>
               <p className="text-muted-foreground">
                 You have the right to access, update, or delete your personal information at any time 

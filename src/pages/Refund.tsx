@@ -41,8 +41,8 @@ const Refund = () => {
             <section>
               <h2 className="text-2xl font-bold mb-4">3. Refund Process</h2>
               <p className="text-muted-foreground">
-                To request a refund, please contact our support team at support@cloudbyte.cloud with 
-                your account details and reason for the refund request. Refunds will be processed within 
+                To request a refund, please contact our support team at @cloudbyte.cloud.com with 
+                your account details and reason for the refund request. Refunds will be Credited within 
                 7-10 business days to the original payment method.
               </p>
             </section>
@@ -75,7 +75,7 @@ const Refund = () => {
               <h2 className="text-2xl font-bold mb-4">7. Contact Information</h2>
               <p className="text-muted-foreground">
                 For refund requests or questions about this policy, please contact us at: 
-                support@cloudbyte.cloud
+                cloudbyte.byte@gmail.com
               </p>
             </section>
 
