@@ -12,6 +12,7 @@ export default function About() {
         <h2 className="text-xl font-semibold">What we do</h2>
         <p className="mt-2 text-sm text-muted-foreground">
           We offer web hosting, managed deployments, and infrastructure tools for developers and teams.
+          connect with us sahil pasha contact number: +91 8147260587
         </p>
       </section>
     </div>
